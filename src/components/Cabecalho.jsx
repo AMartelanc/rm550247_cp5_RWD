@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 export default function Cabecalho() {
+=======
+export default function Rodape() {
+>>>>>>> f414a7d0d2d792da2a0bc2ee6b2bbe3c350924a9
     return (
         <>
         <header>
